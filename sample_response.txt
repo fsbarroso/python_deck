@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE races SYSTEM "https://runsignup.com/rest/rsu.dtd">
+<races>
+    <race>
+        <race_id>105136</race_id>
+        <name>&quot;LOOP THE LAKE&quot; The Great New York State Marathon Weekend</name>
+        <description>&lt;h3&gt;&lt;span style=&quot;color:#236fa1&quot;&gt;&lt;b&gt;LOOP THE LAKE!!  &lt;/b&gt; A celebration of the Great State of New York, Races passes through a beautiful tree lined course that loops around Onondaga Lake.  The weekend kicks off the morning of Saturday October 14th with the 5k and 10k runs. Then continues the morning of Sunday October 15th with the full and half marathon&amp;#39;s. &lt;/span&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;span style=&quot;color:#236fa1&quot;&gt;&lt;b&gt;EXCELSIOR CHALLENGE!&lt;/b&gt;  Test your endurance and achieve New York State acclaim! When you complete both a Saturday and Sunday race (5k/10k and half/full marathon) you&amp;#39;ll earn the prestigious Great New York EXCELSIOR Challenge Medal - in addition to your 5k/10k finisher and half/full marathon medals.&lt;/span&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;span style=&quot;color:#236fa1&quot;&gt;Sign up for one of our Excelsior Challenges and hit the trifecta of medals!&lt;/span&gt;&lt;/h3&gt;</description>
+        <url>https://runsignup.com/Race/NY/Syracuse/TheGreatNewYorkStateMarathon</url>
+        <external_race_url>https://greatnewyorkstatemarathon.org/</external_race_url>
+        <fb_page_id>greatnewyorkstatemarathon</fb_page_id>
+        <last_date>10/15/2022</last_date>
+        <last_end_date>10/16/2022</last_end_date>
+        <next_date>10/14/2023</next_date>
+        <next_end_date>10/15/2023</next_end_date>
+        <is_draft_race>F</is_draft_race>
+        <is_private_race>F</is_private_race>
+        <is_registration_open>T</is_registration_open>
+        <created>1/9/2021 14:59</created>
+        <last_modified>1/2/2023 12:38</last_modified>
+        <address>
+            <street>Around Onondaga Lake</street>
+            <street2></street2>
+            <city>Syracuse</city>
+            <state>NY</state>
+            <zipcode>13209</zipcode>
+            <country_code>US</country_code>
+        </address>
+        <timezone>America/New_York</timezone>
+        <real_time_notifications_enabled>F</real_time_notifications_enabled>
+    </race>
+    <race>
+        <race_id>47696</race_id>
+        <name>&quot;Run For A Vet&quot;</name>
+        <description>&lt;p&gt;Sponsored by Branson Veterans of America 913 (BVA913) to honor our Veterans. This race helps to raise money for veterans that are in need.   &lt;/p&gt;
+            &lt;p&gt;The Branson Veterans of America 913 is a not-for-profit corporation dedicated to support all American veterans, focusing on helping veterans and their families from all areas of service.  We do this by:&lt;/p&gt;
+            &lt;p&gt;1.      Promoting honor to all who have patriotically served our country in any of the Armed Forces of the United States of America through organization and support of public gatherings and ceremonies.&lt;/p&gt;
+            &lt;p&gt;2.      Supporting education of patriotism, duties of citizenship, and honor of our Flag through the organization’s scholarship program, support and encouragement of local educational institutions for patriotic education, and individual conduct within the communities.&lt;/p&gt;
+            &lt;p&gt;3.      Assisting fellow veterans and their families through physical and economic response to special needs, encouragement and support for a healthy lifestyle, and a sense of community.&lt;/p&gt;
+            &lt;p&gt;4.      Working in partnership with local government and private agencies to assure an environment for safe and secure living for all veterans and their families.&lt;/p&gt;
+            &lt;p&gt;                                                      &lt;u&gt;&lt;span style=&quot;color:#000000&quot;&gt;BRANSON VETERANS OF AMERICA 913 VISION STATEMENT:&lt;/span&gt;&lt;/u&gt;&lt;/p&gt;
+            &lt;p&gt;The Branson Veterans of America 913 vision is to be a prominent organization for ensuring veterans of all eras are respected for their service and for promoting honor for the United States of America.&lt;/p&gt;
+            &lt;p&gt;Location: Dewey Short Visitors Center, 4500 State Hwy 165 Branson, MO&lt;/p&gt;
+            &lt;p&gt;Packet Pickup Friday 5-7pm. Race day registration from 6:00 to 6:30am. (Located at the beginning of the running trail)&lt;/p&gt;
+            &lt;p&gt;Half Marathon will begin at 6:45am – 5K will begin at 7:30am&lt;/p&gt;
+            &lt;p&gt;Race Course: Dewey Short Visitors Center to Lakeshore Trail to State Park Marina&lt;/p&gt;
+            &lt;p&gt;(Asphalt surfaced trail)&lt;/p&gt;
+            &lt;p&gt;Fast, out &amp;amp; back course; with a scenic view of Table Rock Lake every step of the way!&lt;/p&gt;
+            &lt;p&gt;* 5K will be one loop of 3.1 miles &amp;amp; Half Marathon is 3 loops of 4.36 miles each&lt;/p&gt;
+            &lt;p&gt;Information: Race Director - Lee Steveson, 573-286-6399 (&lt;a href=&quot;mailto:Leesteveson&amp;#64;gmail.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Leesteveson&amp;#64;gmail.com&lt;/a&gt;)&lt;/p&gt;
+            &lt;p&gt; &lt;/p&gt;
+            &lt;p&gt;Awards for each race: Trophies to Overall Male &amp;amp; Female; Overall Masters Male &amp;amp; Female (40 and above)&lt;/p&gt;
+            &lt;p&gt;Age group awards (Male &amp;amp; Female) 14 &amp;amp; under, 15-19, 20-29, 30-39, 40-49, 50-59, 60&amp;#43;&lt;/p&gt;
+            &lt;p&gt;Awards for 5K will be at 8:30am, Half Marathon awards will be after the last runner comes across the finish line.&lt;/p&gt;
+            &lt;p&gt;All race proceeds will go to the Local Branson BVA913 Chapter. (All payments are final)&lt;/p&gt;
+            &lt;p&gt; &lt;/p&gt;</description>
+        <url>https://runsignup.com/Race/MO/Branson/RunForAVet913</url>
+
+        <logo_url>https://d368g9lw5ileu7.cloudfront.net/races/race47696-logo.bzgBuG.png</logo_url>
+        <external_race_url>https://runsignup.com/Race/MO/Branson/RunForAVet913</external_race_url>
+        <fb_page_id>Branson Veterans of America 913</fb_page_id>
+
+        <last_date>06/11/2022</last_date>
+        <last_end_date>06/11/2022</last_end_date>
+        <next_date>06/10/2023</next_date>
+        <next_end_date>06/10/2023</next_end_date>
+        <is_draft_race>F</is_draft_race>
+        <is_private_race>F</is_private_race>
+        <is_registration_open>T</is_registration_open>
+
+        <created>5/13/2017 09:42</created>
+        <last_modified>1/7/2023 20:31</last_modified>
+
+        <address>
+            <street>4500 State Hwy 165</street>
+            <street2>Dewey Short Visitor Center</street2>
+            <city>Branson</city>
+            <state>MO</state>
+            <zipcode>65616</zipcode>
+            <country_code>US</country_code>
+        </address>
+        <timezone>America/Chicago</timezone>
+        <real_time_notifications_enabled>F</real_time_notifications_enabled>
+    </race>
+    <race>
+        <race_id>101971</race_id>
+        <name>#VirtuallyMiamiFamous wired by the Life Time Miami Marathon &amp; Half</name>
+        <description>&lt;p&gt;Introducing #VirtuallyMiamiFamous wired by the Life Time Miami Marathon &amp;amp; Half! We are excited to bring you the second digital rendering of our world-renowned event taking place January 27-29, 2023. Choose your distance and build your own Miami Famous experience, complete with a stunning Finisher medal, exclusive swag items and more!&lt;/p&gt;</description>
+        <url>https://runsignup.com/Race/FL/Miami/VirtuallyMiamiFamous</url>
+        <logo_url>https://d368g9lw5ileu7.cloudfront.net/races/race101971-logo.bFKiRX.png</logo_url>
+        <external_race_url>https://www.themiamimarathon.com/</external_race_url>
+        <fb_page_id>MiamiMarathon</fb_page_id>
+        <last_date>02/04/2022</last_date>
+        <last_end_date>02/06/2022</last_end_date>
+        <next_date>01/27/2023</next_date>
+        <next_end_date>01/29/2023</next_end_date>
+        <is_draft_race>F</is_draft_race>
+        <is_private_race>F</is_private_race>
+        <is_registration_open>T</is_registration_open>
+        <created>10/21/2020 14:02</created>
+        <last_modified>1/2/2023 09:11</last_modified>
+        <address>
+            <street>Anywhere</street>
+            <street2></street2>
+            <city>Miami</city>
+            <state>FL</state>
+            <zipcode>33176</zipcode>
+            <country_code>US</country_code>
+        </address>
+        <timezone>America/New_York</timezone>
+        <real_time_notifications_enabled>F</real_time_notifications_enabled>
+    </race>
+</races>
