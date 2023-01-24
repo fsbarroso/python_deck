@@ -2,7 +2,7 @@ from xml.etree import ElementTree
 import csv
 
 # PARSE XML
-xml = ElementTree.parse(".\data.xml")
+xml = ElementTree.parse(".\sample_response.txt")
 
 row_fields = [  "race_id",
                 "name",
